@@ -1,3 +1,3 @@
-console.log("++++++++++")
-console.log("Hola Git")
-console.log("++++++++++")
+console.log("**********")
+console.log("Hola mundo")
+console.log("**********")
